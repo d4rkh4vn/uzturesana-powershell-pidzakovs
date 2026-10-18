@@ -1,0 +1,19 @@
+Datora nosaukums:
+DESKTOP-DDOAKM8
+OperÄ
+tÄjsistÄmas nosaukums:
+Microsoft Windows 11 Home
+BÅ«vÄ
+juma
+numurs:
+ (Get-CimInstance -ClassName Win32_OperatingSystem).BuildNumber
+Write-Output
+PowerShell
+versija:
+ System.Collections.Hashtable.PSVersion
+Write-Output
+PaÅ¡reizÄjais datums un laiks:
+
+Sunday, October 18, 2026 8:11:48 PM
+AktÄ«vo procesu skaits:
+317
