@@ -1,0 +1,12 @@
+Name                  Id AtmiÅ†a (MB)
+----                  -- ------------
+chrome             18876        283.9
+chrome             23104        303.8
+chrome             15900        341.9
+MsMpEng            28364        404.1
+chrome             22884        419.2
+chrome             21932        457.2
+explorer            9428        531.8
+steamwebhelper     17312        536.6
+Discord            17716        565.8
+Memory Compression  4152        998.6
