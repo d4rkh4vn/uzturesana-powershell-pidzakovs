@@ -1,0 +1,6 @@
+StrÄdÄjoÅ¡ie servisi: 120
+ApturÄ
+tie
+servisi:
+159
+Write-Output KopÄjÄ summa: 279
