@@ -1,0 +1,5 @@
+KÄ¼Å«du skaits: 7
+
+Count Name                      Group
+----- ----                      -----
+    4 Microsoft-Windows-Wind... {System.Diagnostics.Eventing.Reader.EventLogRecord, System.Diagnostics.Eventing.Read...
