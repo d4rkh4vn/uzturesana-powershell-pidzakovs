@@ -1,0 +1,10 @@
+Disks: C:
+KopÄ
+jais
+izmÄrs: 475.8 GB
+BrÄ«vÄ vieta: 335.14 GB
+Disks: D:
+KopÄ
+jais
+izmÄrs: 476.92 GB
+BrÄ«vÄ vieta: 119.9 GB
