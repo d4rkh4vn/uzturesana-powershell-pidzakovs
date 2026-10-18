@@ -1,0 +1,5 @@
+Process count: 317
+Running services: 121, Stopped services: 158
+Error count (48h): 7
+Disk C: free space: 335.13 GB
+Disk D: free space: 119.9 GB
